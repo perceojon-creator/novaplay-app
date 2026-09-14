@@ -1,12 +1,12 @@
 {
-  "versionCode": 28,
-  "versionName": "1.7.6",
-  "apk": "https://github.com/perceojon-creator/novaplay-app/releases/download/v1.7.6/novaplay-28.apk",
-  "apkUrl": "https://github.com/perceojon-creator/novaplay-app/releases/download/v1.7.6/novaplay-28.apk",
-  "sha256": "7f8409972a5551612cf9522a777803484044d1fbbf1255ef469f398d07f8542d",
-  "size": 6716403,
-  "notes": "v1.7.6: Reproductor con API oficial IFrame de YouTube (autoplay con sonido sin corte de 1s). Mini-reproductor: WebView se reanuda al re-acoplar (sin corte al regresar). Actualizaciones permanentes 24/7.",
-  "releaseNotes": "v1.7.6: Reproductor con API oficial IFrame de YouTube (autoplay con sonido sin corte de 1s). Mini-reproductor: WebView se reanuda al re-acoplar (sin corte al regresar). Actualizaciones permanentes 24/7.",
+  "versionCode": 29,
+  "versionName": "1.7.7",
+  "apk": "https://github.com/perceojon-creator/novaplay-app/releases/download/v1.7.7/novaplay-29.apk",
+  "apkUrl": "https://github.com/perceojon-creator/novaplay-app/releases/download/v1.7.7/novaplay-29.apk",
+  "sha256": "dca50063721f439dd5a7dc1563e0bdd8cfc5a32e7356335490c8f1b8c3f5c529",
+  "size": 6709274,
+  "notes": "v1.7.7: Solución definitiva al corte de 1s (eliminada carrera onPageFinished vs iframe) y pantalla encendida continua (FLAG_KEEP_SCREEN_ON) en pantalla completa y reproducción activa.",
+  "releaseNotes": "v1.7.7: Solución definitiva al corte de 1s (eliminada carrera onPageFinished vs iframe) y pantalla encendida continua (FLAG_KEEP_SCREEN_ON) en pantalla completa y reproducción activa.",
   "minVersionCode": 1,
-  "updatedAt": "2026-09-14T15:30:49.165Z"
+  "updatedAt": "2026-09-14T16:20:21.276Z"
 }
