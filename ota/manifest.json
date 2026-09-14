@@ -1,0 +1,12 @@
+{
+  "versionCode": 28,
+  "versionName": "1.7.6",
+  "apk": "https://github.com/perceojon-creator/novaplay-app/releases/download/v1.7.6/novaplay-28.apk",
+  "apkUrl": "https://github.com/perceojon-creator/novaplay-app/releases/download/v1.7.6/novaplay-28.apk",
+  "sha256": "cfb0f286361bcd3cfb60cbad3bf65a6065ece5b4b7cc4eacb2a7e83a2a752c3f",
+  "size": 6716399,
+  "notes": "v1.7.6: Reproductor con API oficial IFrame de YouTube (autoplay con sonido sin corte de 1s). Mini-reproductor: WebView se reanuda al re-acoplar (sin corte al regresar). Actualizaciones permanentes 24/7.",
+  "releaseNotes": "v1.7.6: Reproductor con API oficial IFrame de YouTube (autoplay con sonido sin corte de 1s). Mini-reproductor: WebView se reanuda al re-acoplar (sin corte al regresar). Actualizaciones permanentes 24/7.",
+  "minVersionCode": 1,
+  "updatedAt": "2026-09-14T15:29:51.725Z"
+}
