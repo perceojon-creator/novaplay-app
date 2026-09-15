@@ -1,12 +1,12 @@
 {
-  "versionCode": 30,
-  "versionName": "1.7.8",
-  "apk": "https://github.com/perceojon-creator/novaplay-app/releases/download/v1.7.8/novaplay-30.apk",
-  "apkUrl": "https://github.com/perceojon-creator/novaplay-app/releases/download/v1.7.8/novaplay-30.apk",
-  "sha256": "55cb18cdf19286c63e8a6dab0daaa021938f78b91edb2a84816d2d958128c167",
-  "size": 5409505,
-  "notes": "v1.7.8: Corregido definitivamente el corte de 1 segundo al abrir cualquier video. Causa raíz: la propia app solicitaba el foco de audio en onCreate() y su propio WebView (Chromium) lo volvía a pedir al iniciar el medio; Android resolvía la contienda quitándoselo a la app, cuyo listener pausaba el video ~1s después de abrir. Ahora la app ya no disputa el foco: el WebView lo gestiona por sí solo (estándar de reproductores WebView). Verificado en emulador: reproducción continua >60s, apertura de videos consecutivos sin cortes y 92/92 tests unitarios en verde.",
-  "releaseNotes": "v1.7.8: Corregido definitivamente el corte de 1 segundo al abrir cualquier video. Causa raíz: la propia app solicitaba el foco de audio en onCreate() y su propio WebView (Chromium) lo volvía a pedir al iniciar el medio; Android resolvía la contienda quitándoselo a la app, cuyo listener pausaba el video ~1s después de abrir. Ahora la app ya no disputa el foco: el WebView lo gestiona por sí solo (estándar de reproductores WebView). Verificado en emulador: reproducción continua >60s, apertura de videos consecutivos sin cortes y 92/92 tests unitarios en verde.",
+  "versionCode": 31,
+  "versionName": "1.7.9",
+  "apk": "https://github.com/perceojon-creator/novaplay-app/releases/download/v1.7.9/novaplay-31.apk",
+  "apkUrl": "https://github.com/perceojon-creator/novaplay-app/releases/download/v1.7.9/novaplay-31.apk",
+  "sha256": "9fd32799d4b4200bd78a09b2a1691a3fd351b4d5f86b6fec66c2a5d9463fe4f1",
+  "size": 5330382,
+  "notes": "v1.7.9: Tuning de rendimiento integral y cuenta local. Carga instantánea del feed principal en <150ms con estrategia Cache-First (paridad con YouTube oficial). Reducción del tiempo de apertura y reproducción de video a ~2.4s mediante piscina de reproductor precalentado en RAM (PlayerPool) y preconexión de red TLS/DNS. Sesión y perfil de usuario persistidos 100% en el dispositivo (suscripciones sin límite arbitrario y ordenadas por fecha). Soporte visual para comentarios fijados, corazón del creador y avatares circulares.",
+  "releaseNotes": "v1.7.9: Tuning de rendimiento integral y cuenta local. Carga instantánea del feed principal en <150ms con estrategia Cache-First (paridad con YouTube oficial). Reducción del tiempo de apertura y reproducción de video a ~2.4s mediante piscina de reproductor precalentado en RAM (PlayerPool) y preconexión de red TLS/DNS. Sesión y perfil de usuario persistidos 100% en el dispositivo (suscripciones sin límite arbitrario y ordenadas por fecha). Soporte visual para comentarios fijados, corazón del creador y avatares circulares.",
   "minVersionCode": 1,
-  "updatedAt": "2026-09-14T23:52:00.000Z"
+  "updatedAt": "2026-09-15T02:40:00.000Z"
 }
