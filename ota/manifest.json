@@ -1,12 +1,12 @@
 {
-  "versionCode": 29,
-  "versionName": "1.7.7",
-  "apk": "https://github.com/perceojon-creator/novaplay-app/releases/download/v1.7.7/novaplay-29.apk",
-  "apkUrl": "https://github.com/perceojon-creator/novaplay-app/releases/download/v1.7.7/novaplay-29.apk",
-  "sha256": "dca50063721f439dd5a7dc1563e0bdd8cfc5a32e7356335490c8f1b8c3f5c529",
-  "size": 6709274,
-  "notes": "v1.7.7: Solución definitiva al corte de 1s (eliminada carrera onPageFinished vs iframe) y pantalla encendida continua (FLAG_KEEP_SCREEN_ON) en pantalla completa y reproducción activa.",
-  "releaseNotes": "v1.7.7: Solución definitiva al corte de 1s (eliminada carrera onPageFinished vs iframe) y pantalla encendida continua (FLAG_KEEP_SCREEN_ON) en pantalla completa y reproducción activa.",
+  "versionCode": 30,
+  "versionName": "1.7.8",
+  "apk": "https://github.com/perceojon-creator/novaplay-app/releases/download/v1.7.8/novaplay-30.apk",
+  "apkUrl": "https://github.com/perceojon-creator/novaplay-app/releases/download/v1.7.8/novaplay-30.apk",
+  "sha256": "55cb18cdf19286c63e8a6dab0daaa021938f78b91edb2a84816d2d958128c167",
+  "size": 5409505,
+  "notes": "v1.7.8: Corregido definitivamente el corte de 1 segundo al abrir cualquier video. Causa raíz: la propia app solicitaba el foco de audio en onCreate() y su propio WebView (Chromium) lo volvía a pedir al iniciar el medio; Android resolvía la contienda quitándoselo a la app, cuyo listener pausaba el video ~1s después de abrir. Ahora la app ya no disputa el foco: el WebView lo gestiona por sí solo (estándar de reproductores WebView). Verificado en emulador: reproducción continua >60s, apertura de videos consecutivos sin cortes y 92/92 tests unitarios en verde.",
+  "releaseNotes": "v1.7.8: Corregido definitivamente el corte de 1 segundo al abrir cualquier video. Causa raíz: la propia app solicitaba el foco de audio en onCreate() y su propio WebView (Chromium) lo volvía a pedir al iniciar el medio; Android resolvía la contienda quitándoselo a la app, cuyo listener pausaba el video ~1s después de abrir. Ahora la app ya no disputa el foco: el WebView lo gestiona por sí solo (estándar de reproductores WebView). Verificado en emulador: reproducción continua >60s, apertura de videos consecutivos sin cortes y 92/92 tests unitarios en verde.",
   "minVersionCode": 1,
-  "updatedAt": "2026-09-14T16:20:21.276Z"
+  "updatedAt": "2026-09-14T23:52:00.000Z"
 }
