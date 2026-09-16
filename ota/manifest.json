@@ -1,12 +1,12 @@
 {
-  "versionCode": 35,
-  "versionName": "1.9.2",
-  "apk": "https://github.com/perceojon-creator/novaplay-app/releases/download/v1.9.2/novaplay-35.apk",
-  "apkUrl": "https://github.com/perceojon-creator/novaplay-app/releases/download/v1.9.2/novaplay-35.apk",
-  "sha256": "e6ca81703f17e30c762ac2b60d640259643caaa2a61fe47141dcc08efb132c75",
-  "size": 5367375,
-  "notes": "v1.9.2: Bloqueo total de anuncios estilo YouTube Vanced (AdBlocker a nivel de red y DOM). Cancela peticiones a redes publicitarias (DoubleClick, GoogleSyndication, GoogleAdServices y telemetria de anuncios), migra el reproductor al dominio de privacidad youtube-nocookie.com y salta anuncios automaticamente. Incluye correccion de la barra de navegacion inferior y boton de actualizacion en Configuracion.",
-  "releaseNotes": "v1.9.2: Bloqueo total de anuncios estilo YouTube Vanced (AdBlocker a nivel de red y DOM). Cancela peticiones a redes publicitarias (DoubleClick, GoogleSyndication, GoogleAdServices y telemetria de anuncios), migra el reproductor al dominio de privacidad youtube-nocookie.com y salta anuncios automaticamente. Incluye correccion de la barra de navegacion inferior y boton de actualizacion en Configuracion.",
+  "versionCode": 36,
+  "versionName": "1.9.3",
+  "apk": "https://github.com/perceojon-creator/novaplay-app/releases/download/v1.9.3/novaplay-36.apk",
+  "apkUrl": "https://github.com/perceojon-creator/novaplay-app/releases/download/v1.9.3/novaplay-36.apk",
+  "sha256": "92af2d9171ecddc69b867cce4ff2c73f4251f45e2bcbc7a6624974cc320fb56b",
+  "size": 5377116,
+  "notes": "v1.9.3: Optimizacion extrema de velocidad y rediseño estetico YouTube Vanced para Shorts y Videos. Reproductor reciclable unico (ShortsPlaybackManager) con transiciones instantaneas (< 150ms sin destruir Chromium), avatar circular del creador, boton No me gusta, disco de audio giratorio animado, animacion de doble toque con corazon expansivo, barra inferior delgada de progreso y aceleracion por flujo directo MP4.",
+  "releaseNotes": "v1.9.3: Optimizacion extrema de velocidad y rediseño estetico YouTube Vanced para Shorts y Videos. Reproductor reciclable unico (ShortsPlaybackManager) con transiciones instantaneas (< 150ms sin destruir Chromium), avatar circular del creador, boton No me gusta, disco de audio giratorio animado, animacion de doble toque con corazon expansivo, barra inferior delgada de progreso y aceleracion por flujo directo MP4.",
   "minVersionCode": 1,
-  "updatedAt": "2026-09-16T18:00:00.000Z"
+  "updatedAt": "2026-09-16T19:00:00.000Z"
 }
