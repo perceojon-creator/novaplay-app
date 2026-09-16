@@ -1,12 +1,12 @@
 {
-  "versionCode": 34,
-  "versionName": "1.9.1",
-  "apk": "https://github.com/perceojon-creator/novaplay-app/releases/download/v1.9.1/novaplay-34.apk",
-  "apkUrl": "https://github.com/perceojon-creator/novaplay-app/releases/download/v1.9.1/novaplay-34.apk",
-  "sha256": "036599a69799b55d550f5cb413897a77a268da6d373945c91b6f92d875dbde75",
-  "size": 5365087,
-  "notes": "v1.9.1: Corrección completa de barra de navegación inferior. Se reemplaza BottomNavigationView con diseño lineal nativo vertical para garantizar separación perfecta entre iconos y textos (Inicio, Shorts, Suscripciones, Tú) sin sobreexposición ni solapamiento. Nuevo botón en Configuración para búsqueda manual de actualizaciones.",
-  "releaseNotes": "v1.9.1: Corrección completa de barra de navegación inferior. Se reemplaza BottomNavigationView con diseño lineal nativo vertical para garantizar separación perfecta entre iconos y textos (Inicio, Shorts, Suscripciones, Tú) sin sobreexposición ni solapamiento. Nuevo botón en Configuración para búsqueda manual de actualizaciones.",
+  "versionCode": 35,
+  "versionName": "1.9.2",
+  "apk": "https://github.com/perceojon-creator/novaplay-app/releases/download/v1.9.2/novaplay-35.apk",
+  "apkUrl": "https://github.com/perceojon-creator/novaplay-app/releases/download/v1.9.2/novaplay-35.apk",
+  "sha256": "e6ca81703f17e30c762ac2b60d640259643caaa2a61fe47141dcc08efb132c75",
+  "size": 5367375,
+  "notes": "v1.9.2: Bloqueo total de anuncios estilo YouTube Vanced (AdBlocker a nivel de red y DOM). Cancela peticiones a redes publicitarias (DoubleClick, GoogleSyndication, GoogleAdServices y telemetria de anuncios), migra el reproductor al dominio de privacidad youtube-nocookie.com y salta anuncios automaticamente. Incluye correccion de la barra de navegacion inferior y boton de actualizacion en Configuracion.",
+  "releaseNotes": "v1.9.2: Bloqueo total de anuncios estilo YouTube Vanced (AdBlocker a nivel de red y DOM). Cancela peticiones a redes publicitarias (DoubleClick, GoogleSyndication, GoogleAdServices y telemetria de anuncios), migra el reproductor al dominio de privacidad youtube-nocookie.com y salta anuncios automaticamente. Incluye correccion de la barra de navegacion inferior y boton de actualizacion en Configuracion.",
   "minVersionCode": 1,
-  "updatedAt": "2026-09-16T17:30:00.000Z"
+  "updatedAt": "2026-09-16T18:00:00.000Z"
 }
