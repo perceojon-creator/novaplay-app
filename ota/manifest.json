@@ -1,12 +1,12 @@
 {
-  "versionCode": 32,
-  "versionName": "1.8.0",
-  "apk": "https://github.com/perceojon-creator/novaplay-app/releases/download/v1.8.0/novaplay-32.apk",
-  "apkUrl": "https://github.com/perceojon-creator/novaplay-app/releases/download/v1.8.0/novaplay-32.apk",
-  "sha256": "08b91505aebff2a3ec0d72fc79ac42f0fa784808014e21c30115fcefd1be1612",
-  "size": 5335068,
-  "notes": "v1.8.0: Soporte completo y nativo para Android TV y Google TV. Navegación 100% fluida mediante control remoto y D-Pad en todas las pantallas. Rejilla adaptativa de 3 columnas para televisores y pantallas panorámicas. Controles de reproducción dedicados con control remoto: retroceder (-10s con D-Pad Izq), adelantar (+10s con D-Pad Der), pausar/reanudar (D-Pad Centro/OK), navegación entre colas y pantalla completa automática. Indicadores de enfoque de alto contraste (resaltado naranja 10-foot UI) en todas las tarjetas, botones, listas y ajustes. Declaración explícita de hardware Leanback en el manifiesto para compatibilidad universal con cualquier televisor o TV Box sin pantalla táctil.",
-  "releaseNotes": "v1.8.0: Soporte completo y nativo para Android TV y Google TV. Navegación 100% fluida mediante control remoto y D-Pad en todas las pantallas. Rejilla adaptativa de 3 columnas para televisores y pantallas panorámicas. Controles de reproducción dedicados con control remoto: retroceder (-10s con D-Pad Izq), adelantar (+10s con D-Pad Der), pausar/reanudar (D-Pad Centro/OK), navegación entre colas y pantalla completa automática. Indicadores de enfoque de alto contraste (resaltado naranja 10-foot UI) en todas las tarjetas, botones, listas y ajustes. Declaración explícita de hardware Leanback en el manifiesto para compatibilidad universal con cualquier televisor o TV Box sin pantalla táctil.",
+  "versionCode": 33,
+  "versionName": "1.9.0",
+  "apk": "https://github.com/perceojon-creator/novaplay-app/releases/download/v1.9.0/novaplay-33.apk",
+  "apkUrl": "https://github.com/perceojon-creator/novaplay-app/releases/download/v1.9.0/novaplay-33.apk",
+  "sha256": "35137b5c9ef3428d8449a0eaae07982cd6516ce2a271a64abf6bc1c0bca1b606",
+  "size": 5356451,
+  "notes": "v1.9.0: Soporte nativo para YouTube Shorts verticales en bucle continuo (swipe vertical, auto-reproducción, me gusta, comentarios y compartir). Renovación visual integral estilo YouTube Vanced (paleta AMOLED #0F0F0F, acento rojo #FF0033, tipografía sans-serif-medium, nuevas transiciones de apertura vertical y selectores de píldora activa). Nueva Barra de Navegación Inferior (Inicio, Shorts, Suscripciones, Tú) con auto-ocultamiento inteligente en Android TV. Mejoras de sincronización MediaMetadataCompat (título, autor, duración en bloqueo, Bluetooth y Smartwatches), unificación de NOTIFICATION_ID, y controles remotos de cola en ventana flotante PiP.",
+  "releaseNotes": "v1.9.0: Soporte nativo para YouTube Shorts verticales en bucle continuo (swipe vertical, auto-reproducción, me gusta, comentarios y compartir). Renovación visual integral estilo YouTube Vanced (paleta AMOLED #0F0F0F, acento rojo #FF0033, tipografía sans-serif-medium, nuevas transiciones de apertura vertical y selectores de píldora activa). Nueva Barra de Navegación Inferior (Inicio, Shorts, Suscripciones, Tú) con auto-ocultamiento inteligente en Android TV. Mejoras de sincronización MediaMetadataCompat (título, autor, duración en bloqueo, Bluetooth y Smartwatches), unificación de NOTIFICATION_ID, y controles remotos de cola en ventana flotante PiP.",
   "minVersionCode": 1,
-  "updatedAt": "2026-09-15T03:15:00.000Z"
+  "updatedAt": "2026-09-16T15:30:00.000Z"
 }
