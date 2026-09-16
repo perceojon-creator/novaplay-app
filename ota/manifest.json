@@ -3,10 +3,10 @@
   "versionName": "1.9.0",
   "apk": "https://github.com/perceojon-creator/novaplay-app/releases/download/v1.9.0/novaplay-33.apk",
   "apkUrl": "https://github.com/perceojon-creator/novaplay-app/releases/download/v1.9.0/novaplay-33.apk",
-  "sha256": "8db5937fd001dad425633bc992b069e50753f4f97888c12e22862997f4df7c91",
-  "size": 5358215,
-  "notes": "v1.9.0: Interfaz ultra-pulida con 3 agentes concurrentes. Soporte nativo para YouTube Shorts verticales en bucle continuo. Estilo YouTube Vanced AMOLED Black (#0F0F0F, acento #FF0033, tokens semánticos completos sin colores hardcodeados). Contraste WCAG AA perfeccionado (text_muted elevado a #8E8E8E). Cinemática de animaciones a 120Hz/60Hz con interpoladores Material fast-out-slow-in y escala táctil 0.96f. Tipografía unificada sans-serif-medium y objetivos táctiles mínimos de 48dp. Optimización 10-foot UI para Android TV con halo de enfoque D-Pad y HUD a 3 metros.",
-  "releaseNotes": "v1.9.0: Interfaz ultra-pulida con 3 agentes concurrentes. Soporte nativo para YouTube Shorts verticales en bucle continuo. Estilo YouTube Vanced AMOLED Black (#0F0F0F, acento #FF0033, tokens semánticos completos sin colores hardcodeados). Contraste WCAG AA perfeccionado (text_muted elevado a #8E8E8E). Cinemática de animaciones a 120Hz/60Hz con interpoladores Material fast-out-slow-in y escala táctil 0.96f. Tipografía unificada sans-serif-medium y objetivos táctiles mínimos de 48dp. Optimización 10-foot UI para Android TV con halo de enfoque D-Pad y HUD a 3 metros.",
+  "sha256": "3961f00c5a65440f23def50ee275b33d9e8218525e36e41fb150a6187b1247f2",
+  "size": 5362415,
+  "notes": "v1.9.0: Soporte nativo para YouTube Shorts verticales en bucle continuo y rediseño completo estilo YouTube Vanced AMOLED Black (#0F0F0F). Nuevo botón dedicado en Configuración para 'Buscar Actualizaciones' con feedback visual interactivo en tiempo real. Optimización de animaciones Material fast-out-slow-in a 120Hz/60Hz, objetivos táctiles mínimos de 48dp y soporte para Android TV (10-foot UI).",
+  "releaseNotes": "v1.9.0: Soporte nativo para YouTube Shorts verticales en bucle continuo y rediseño completo estilo YouTube Vanced AMOLED Black (#0F0F0F). Nuevo botón dedicado en Configuración para 'Buscar Actualizaciones' con feedback visual interactivo en tiempo real. Optimización de animaciones Material fast-out-slow-in a 120Hz/60Hz, objetivos táctiles mínimos de 48dp y soporte para Android TV (10-foot UI).",
   "minVersionCode": 1,
-  "updatedAt": "2026-09-16T16:35:00.000Z"
+  "updatedAt": "2026-09-16T17:00:00.000Z"
 }
