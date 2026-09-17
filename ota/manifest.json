@@ -1,12 +1,12 @@
 {
-  "versionCode": 38,
-  "versionName": "1.9.5",
-  "apk": "https://github.com/perceojon-creator/novaplay-app/releases/download/v1.9.5/novaplay-38.apk",
-  "apkUrl": "https://github.com/perceojon-creator/novaplay-app/releases/download/v1.9.5/novaplay-38.apk",
-  "sha256": "e5f2d9f193f53121b1d4e1c14139dabdf0618f6132e5a9986ea3ab6bf9057447",
-  "size": 5386068,
-  "notes": "v1.9.5: Suite avanzada de YouTube Vanced (Deep Linking universal para URLs de YouTube/Shorts/Embeds/t=, Reanudacion inteligente con barra de progreso roja en miniaturas, selector de velocidad 0.25x-2.0x, modo bucle y compartir con timestamp actual).",
-  "releaseNotes": "v1.9.5: Suite avanzada de YouTube Vanced (Deep Linking universal para URLs de YouTube/Shorts/Embeds/t=, Reanudacion inteligente con barra de progreso roja en miniaturas, selector de velocidad 0.25x-2.0x, modo bucle y compartir con timestamp actual).",
-  "minVersionCode": 1,
-  "updatedAt": "2026-09-17T11:15:00.000Z"
+    "versionCode":  39,
+    "versionName":  "1.9.6",
+    "apk":  "https://github.com/perceojon-creator/novaplay-app/releases/download/v1.9.6/novaplay-39.apk",
+    "apkUrl":  "https://github.com/perceojon-creator/novaplay-app/releases/download/v1.9.6/novaplay-39.apk",
+    "sha256":  "7b9a2f69aafe9a17e05b277ebf94dc65af0a024d85c1b56a1ccffb0cfe872000",
+    "size":  5392568,
+    "notes":  "v1.9.6: Soporte directo de descargas en MP4 (Video) y MP3 / M4A (Audio HQ) desde la barra de acciones del reproductor y opciones de reproducción, con integración nativa en DownloadManager.",
+    "releaseNotes":  "v1.9.6: Soporte directo de descargas en MP4 (Video) y MP3 / M4A (Audio HQ) desde la barra de acciones del reproductor y opciones de reproducción, con integración nativa en DownloadManager.",
+    "minVersionCode":  1,
+    "updatedAt":  "2026-09-17T11:55:36.339Z"
 }
