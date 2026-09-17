@@ -1,12 +1,12 @@
-{
-  "versionCode": 36,
-  "versionName": "1.9.3",
-  "apk": "https://github.com/perceojon-creator/novaplay-app/releases/download/v1.9.3/novaplay-36.apk",
-  "apkUrl": "https://github.com/perceojon-creator/novaplay-app/releases/download/v1.9.3/novaplay-36.apk",
-  "sha256": "92af2d9171ecddc69b867cce4ff2c73f4251f45e2bcbc7a6624974cc320fb56b",
-  "size": 5377116,
-  "notes": "v1.9.3: Optimizacion extrema de velocidad y rediseño estetico YouTube Vanced para Shorts y Videos. Reproductor reciclable unico (ShortsPlaybackManager) con transiciones instantaneas (< 150ms sin destruir Chromium), avatar circular del creador, boton No me gusta, disco de audio giratorio animado, animacion de doble toque con corazon expansivo, barra inferior delgada de progreso y aceleracion por flujo directo MP4.",
-  "releaseNotes": "v1.9.3: Optimizacion extrema de velocidad y rediseño estetico YouTube Vanced para Shorts y Videos. Reproductor reciclable unico (ShortsPlaybackManager) con transiciones instantaneas (< 150ms sin destruir Chromium), avatar circular del creador, boton No me gusta, disco de audio giratorio animado, animacion de doble toque con corazon expansivo, barra inferior delgada de progreso y aceleracion por flujo directo MP4.",
+﻿{
+  "versionCode": 37,
+  "versionName": "1.9.4",
+  "apk": "https://github.com/perceojon-creator/novaplay-app/releases/download/v1.9.4/novaplay-37.apk",
+  "apkUrl": "https://github.com/perceojon-creator/novaplay-app/releases/download/v1.9.4/novaplay-37.apk",
+  "sha256": "f16578e87f25adfb4303c246420375312182eed0b7d849182e3112342a4e258e",
+  "size": 5381528,
+  "notes": "v1.9.4: Integracion nativa del Reel vertical de YouTube Shorts (Reel Sequence InnerTube reverse-engineered del APK de Vanced) con desplazamiento infinito continuo, deduplicacion reactiva y enriquecimiento oEmbed en paralelo.",
+  "releaseNotes": "v1.9.4: Integracion nativa del Reel vertical de YouTube Shorts (Reel Sequence InnerTube reverse-engineered del APK de Vanced) con desplazamiento infinito continuo, deduplicacion reactiva y enriquecimiento oEmbed en paralelo.",
   "minVersionCode": 1,
-  "updatedAt": "2026-09-16T19:00:00.000Z"
+  "updatedAt": "2026-09-17T10:49:53.747Z"
 }
