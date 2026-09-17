@@ -1,12 +1,12 @@
-﻿{
-  "versionCode": 37,
-  "versionName": "1.9.4",
-  "apk": "https://github.com/perceojon-creator/novaplay-app/releases/download/v1.9.4/novaplay-37.apk",
-  "apkUrl": "https://github.com/perceojon-creator/novaplay-app/releases/download/v1.9.4/novaplay-37.apk",
-  "sha256": "f16578e87f25adfb4303c246420375312182eed0b7d849182e3112342a4e258e",
-  "size": 5381528,
-  "notes": "v1.9.4: Integracion nativa del Reel vertical de YouTube Shorts (Reel Sequence InnerTube reverse-engineered del APK de Vanced) con desplazamiento infinito continuo, deduplicacion reactiva y enriquecimiento oEmbed en paralelo.",
-  "releaseNotes": "v1.9.4: Integracion nativa del Reel vertical de YouTube Shorts (Reel Sequence InnerTube reverse-engineered del APK de Vanced) con desplazamiento infinito continuo, deduplicacion reactiva y enriquecimiento oEmbed en paralelo.",
+{
+  "versionCode": 38,
+  "versionName": "1.9.5",
+  "apk": "https://github.com/perceojon-creator/novaplay-app/releases/download/v1.9.5/novaplay-38.apk",
+  "apkUrl": "https://github.com/perceojon-creator/novaplay-app/releases/download/v1.9.5/novaplay-38.apk",
+  "sha256": "e5f2d9f193f53121b1d4e1c14139dabdf0618f6132e5a9986ea3ab6bf9057447",
+  "size": 5386068,
+  "notes": "v1.9.5: Suite avanzada de YouTube Vanced (Deep Linking universal para URLs de YouTube/Shorts/Embeds/t=, Reanudacion inteligente con barra de progreso roja en miniaturas, selector de velocidad 0.25x-2.0x, modo bucle y compartir con timestamp actual).",
+  "releaseNotes": "v1.9.5: Suite avanzada de YouTube Vanced (Deep Linking universal para URLs de YouTube/Shorts/Embeds/t=, Reanudacion inteligente con barra de progreso roja en miniaturas, selector de velocidad 0.25x-2.0x, modo bucle y compartir con timestamp actual).",
   "minVersionCode": 1,
-  "updatedAt": "2026-09-17T10:49:53.747Z"
+  "updatedAt": "2026-09-17T11:15:00.000Z"
 }
